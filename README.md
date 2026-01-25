@@ -11,6 +11,8 @@
   <span> </span>
 </p>
 
+> **Note:** This project is a fork of [udit-001/cursor-linux-release](https://github.com/udit-001/cursor-linux-release). Original project by [udit-001](https://github.com/udit-001).
+
 ## Overview
 
 GitHub Action to fetch the latest **Cursor** Linux AppImage and create a release.
